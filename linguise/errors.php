@@ -1,0 +1,21 @@
+
+[2023-03-22 16:14:17] Content type not translatable video/webm
+[2023-03-22 16:14:17] Content type not translatable video/webm
+[2023-03-22 16:14:17] Content type not translatable video/webm
+[2023-03-22 16:14:16] Content type not translatable image/webp
+[2023-03-22 16:14:16] Content type not translatable application/javascript
+[2023-03-22 16:14:15] Content type not translatable image/jpeg
+[2023-03-22 16:14:15] Content type not translatable image/jpeg
+[2023-03-22 16:14:15] Content type not translatable text/css
+[2023-03-22 16:14:15] Content type not translatable image/png
+[2023-03-22 16:14:15] Content type not translatable image/jpeg
+[2023-03-22 16:14:15] Content type not translatable video/webm
+[2023-03-22 16:14:15] Content type not translatable text/css
+[2023-03-22 16:14:15] Content type not translatable video/webm
+[2023-03-22 16:14:15] Content type not translatable video/webm
+[2023-03-22 16:14:15] Content type not translatable image/jpeg
+[2023-03-22 16:14:15] Content type not translatable image/jpeg
+[2023-03-22 16:14:15] Content type not translatable image/jpeg
+[2023-03-22 16:14:15] Content type not translatable application/javascript
+[2023-03-22 16:14:15] Content type not translatable image/png
+[2023-03-22 16:14:15] Content type not translatable image/webp
