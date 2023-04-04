@@ -5,7 +5,7 @@ if (!defined('LINGUISE_SCRIPT_TRANSLATION')) die();
 
 class Configuration {
     /** Mandatory configuration **/
-    public static $token = '0sTykR6QCNVxfs4fJ4wn7ccT7Nzck1ki'; //Replace the token by the one found in your Linguise dashboard
+    public static $token = 'kGoAffWclxO2MAgVrDAhoFNV0AawqKPe'; //Replace the token by the one found in your Linguise dashboard
 
     /** Basic configuration **/
     public $cache_enabled = true;
